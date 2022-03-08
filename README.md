@@ -1,6 +1,7 @@
 # Natural-Language-Processing
 ##Sentiment Analysis using Python
-###Hotel Reviews split into postive and negative sentiments
+
+Hotel Reviews split into postive and negative sentiments
 
 1. Data cleaning done with Python libraries namely Numpy and Pandas
 2. Data divided into Train and Test set 
